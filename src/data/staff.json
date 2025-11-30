@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Dr. Md. Majbaur Rahman Khan",
+    "phone": "+880-1234-567890",
+    "email": "majbaur@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "Engr. Ayesha Siddika",
+    "phone": "+880-9876-543210",
+    "email": "ayesha@cu.ac.bd",
+    "image": "staff2.jpg"
+  },
+  {
+    "name": "Prof. Dr. Rahim Uddin",
+    "phone": "+880-1122-334455",
+    "email": "rahim@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "Dr. Shirin Akter",
+    "phone": "+880-2233-445566",
+    "email": "shirin@cu.ac.bd",
+    "image": "staff2.jpg"
+  }
+]

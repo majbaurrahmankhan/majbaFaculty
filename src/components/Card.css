@@ -1,0 +1,31 @@
+.card-box {
+  width: 250px;
+  background-color: #f2f2f2;
+  border-radius: 12px;
+  padding: 15px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+  text-align: center;
+  transition: 0.3s ease-in-out;
+}
+
+.card-box:hover {
+  transform: scale(1.05);
+}
+
+.card-box img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.card-box h3 {
+  color: #003366;
+  margin-bottom: 5px;
+}
+
+.card-box p {
+  color: #333;
+  font-size: 14px;
+}
